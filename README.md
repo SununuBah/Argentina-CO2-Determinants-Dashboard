@@ -1,12 +1,12 @@
-# 🌍 Determinants of CO₂ Emissions in Argentina (1990–2021)
+#  Determinants of CO₂ Emissions in Argentina (1990–2021)
 
-### 🧭 Overview
+###  Overview
 This Power BI dashboard analyzes the **relationship between economic growth, energy use, globalization, and carbon emissions** in Argentina between 1990 and 2021.  
 It transforms econometric results (ARDL framework) into a **dynamic visual analytics tool** for exploring sustainability and policy implications.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Visualize historical trends in **CO₂ emissions**, **GDP per capita**, **renewable and non-renewable energy**, and **globalization**.  
 - Examine the **Environmental Kuznets Curve (EKC)** — how economic growth influences emissions.  
 - Assess **energy efficiency**, **carbon productivity**, and **decoupling** between GDP and CO₂.  
@@ -14,7 +14,7 @@ It transforms econometric results (ARDL framework) into a **dynamic visual analy
 
 ---
 
-## ⚙️ Data Description
+##  Data Description
 | Variable | Description |
 |-----------|--------------|
 | **CO₂ per capita** | Carbon dioxide emissions per person (tons CO₂/person) |
@@ -26,7 +26,7 @@ It transforms econometric results (ARDL framework) into a **dynamic visual analy
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 | KPI | Description | Policy Relevance |
 |------|--------------|------------------|
 | **Emission Intensity (CO₂/GDP)** | CO₂ emitted per unit of GDP | Tracks environmental efficiency of growth |
@@ -38,7 +38,7 @@ It transforms econometric results (ARDL framework) into a **dynamic visual analy
 
 ---
 
-## 📈 Main Visuals
+##  Main Visuals
 - **KPI Dashboard:** Displays efficiency, productivity, and sustainability indicators.  
 - **Line Charts:** Show time-series trends of CO₂, GDP, and energy indicators.  
 - **Stacked Area Chart:** Illustrates evolution of renewable vs. non-renewable energy shares.  
@@ -47,7 +47,7 @@ It transforms econometric results (ARDL framework) into a **dynamic visual analy
 
 ---
 
-## 🧠 Insights & Policy Implications
+##  Insights & Policy Implications
 - **Post-2009 decoupling:** Economic growth shows a weaker link to CO₂ emissions.  
 - **Low renewable share (<10%)** highlights potential for clean-energy expansion.  
 - **Energy intensity** has improved slightly, signaling better efficiency in production.  
